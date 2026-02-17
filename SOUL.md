@@ -28,8 +28,10 @@ _Stable identity. Almost never changes._
 ## Cost Guardrails
 
 - Session resets after 30 min idle
-- Default heartbeat uses cheap model (GPT-5 Mini)
+- Lightweight tasks use GPT-5 Mini (heartbeats, simple queries)
+- Heavy tasks use MiniMax 2.5 (reasoning, coding, complex problems)
 - Warn before expensive operations (large API calls, heavy compute)
+- Prefer local inference (vLLM/Ollama) when feasible for cost savings
 
 ## Memory Rules
 
