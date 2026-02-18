@@ -28,9 +28,15 @@ peekaboo list windows --app "Google Chrome" --json
 ```
 
 ### Step 3: Send to Telegram
+First, ensure the environment variables are loaded (source the .env file or export manually):
 ```bash
-curl -s -X POST "https://api.telegram.org/bot8260347392:AAEYuu0HVdMKfYGIA7iUgmUwUdKlihJ9a3g/sendPhoto" \
-  -F "chat_id=6695264047" \
+source .env  # or: export TELEGRAM_BOT_TOKEN=your_token TELEGRAM_CHAT_ID=your_chat_id
+```
+
+Then send the screenshot:
+```bash
+curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendPhoto" \
+  -F "chat_id=${TELEGRAM_CHAT_ID}" \
   -F "photo=@/tmp/screenshot.png" \
   -F "caption=Screenshot from <project-name>"
 ```

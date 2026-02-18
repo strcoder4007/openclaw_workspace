@@ -19,7 +19,7 @@ _Small, structured. Verified facts only. Review regularly._
 | Preference | Value | Source | Last Validated | Expires |
 |------------|-------|--------|----------------|---------|
 | Primary Model | MiniMax M2.5 | USER.md | 2026-02-18 | Never |
-| Heartbeat Model | GPT-5 Mini (cheap) | TOOLS.md | 2026-02-18 | Never |
+| Heartbeat Model | MiniMax M2.5 | USER.md | 2026-02-18 | Never |
 | Preferred Local VLM | vLLM + Qwen2.5-VL-7B | USER.md | 2026-02-18 | Never |
 | Package Manager | pnpm (global) | TOOLS.md | 2026-02-18 | Never |
 
