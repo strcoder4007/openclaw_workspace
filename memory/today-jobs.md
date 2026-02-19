@@ -1,0 +1,69 @@
+# Senior/Staff AI Engineer Remote Jobs - February 19, 2026
+
+## LinkedIn
+| Company | Role | Location | Posted | Link |
+|---------|------|----------|--------|------|
+| Mission.dev | AI Engineer – Automations & Agent Orchestration | India (Remote) | 3 weeks ago | https://www.linkedin.com/jobs/view/4353586254 |
+| TRM Labs | Senior AI Engineer (AI Automation) | India (Remote) | - | https://www.linkedin.com/jobs/view/4344962305 |
+| ImagineArt | Principal AI Engineer (LLM Agents & Orchestration) | India (Remote) | 1 month ago | https://www.linkedin.com/jobs/view/4364093478 |
+| Crossing Hurdles | Machine Learning Engineer | India (Remote) | - | https://www.linkedin.com/jobs/view/4370004997 |
+| Destinare Services | Senior Software Engineer (Rust) \| LLM Evaluation | India (Remote) | - | https://www.linkedin.com/jobs/view/4372870295 |
+| **Procedure** 🔴NEW | AI Systems & Backend Engineer | India (Remote) | - | https://www.linkedin.com/jobs/view/4356409802 |
+| **Andela** 🔴NEW | Agentic AI Developer | India (Remote) | - | https://www.linkedin.com/jobs/view/4356056150 |
+| **Recro** 🔴NEW | Artificial Intelligence Engineer | Bengaluru, Karnataka, India (Remote) | - | https://www.linkedin.com/jobs/view/4366590705 |
+| **CallDash** 🔴NEW | AI Engineer | India (Remote) | 1 week ago | https://www.linkedin.com/jobs/view/4371127699 |
+| **MightyBot** 🔴NEW | Senior AI Engineer | India (Remote) | - | https://www.linkedin.com/jobs/view/4363970159 |
+| **Centurion Cypher** 🔴NEW | Senior AI Backend Engineer (LLM Systems Architect) | India (Remote) | - | https://www.linkedin.com/jobs/view/4364739453 |
+
+## Remote Rocketship
+| Company | Role | Location | Pay | Link |
+|---------|------|----------|-----|------|
+| Datadog | Staff AI Engineer – MCP Services | Portugal – Remote | - | https://www.remoterocketship.com/company/datadoghq/jobs/staff-ai-engineer-mcp-services-portugal-remote/ |
+| Datadog | Staff AI Engineer – Notebooks | Portugal – Remote | - | https://www.remoterocketship.com/company/datadoghq/jobs/staff-ai-engineer-remote/ |
+| Datadog | Staff AI Engineer – Notebooks | France – Remote | - | https://www.remoterocketship.com/company/datadoghq/jobs/staff-ai-engineer-notebooks-france-remote/ |
+| Datadog | Staff AI Engineer – MCP Services | France – Remote | - | https://www.remoterocketship.com/company/datadoghq/jobs/staff-ai-engineer-mcp-services-france-remote/ |
+| Saviynt | Principal Software Engineer, AI Platform | California – Remote | - | https://www.remoterocketship.com/company/saviynt/jobs/principal-software-engineer-ai-platform-united-states-remote/ |
+| Textlayer | Staff AI Architect | Canada – Remote | CA$215k - CA$250k/yr | https://www.remoterocketship.com/company/textlayer-ai/jobs/staff-ai-architect-canada-remote/ |
+| Ellowtech | Senior AI Engineer | India – Remote | Contract | https://www.remoterocketship.com/company/ellowtech-io/jobs/ai-engineer-india-remote/ |
+| **Aspire Software** 🔴NEW | AI Engineer | Canada – Remote | - | https://www.remoterocketship.com/company/aspiresoftware/jobs/ai-engineer-canada-remote/ |
+| **WorkNomads** 🔴NEW | AI Engineer | Worldwide – Remote | - | https://www.remoterocketship.com/company/worknomads/jobs/ai-engineer-worldwide-remote/ |
+| **Sezzle** 🔴NEW | AI Engineer I | Turkey – Remote | - | https://www.remoterocketship.com/company/sezzle/jobs/ai-engineer-i-turkey-remote/ |
+| **Sezzle** 🔴NEW | AI Engineer II | Turkey – Remote | - | https://www.remoterocketship.com/company/sezzle/jobs/ai-engineer-ii-turkey-remote/ |
+| **Sezzle** 🔴NEW | AI Engineer II | Brazil – Remote | - | https://www.remoterocketship.com/company/sezzle/jobs/ai-engineer-ii-brazil-remote/ |
+| **Sezzle** 🔴NEW | AI Engineer II | Latin America – Remote | - | https://www.remoterocketship.com/company/sezzle/jobs/ai-engineer-ii-latin-america-remote/ |
+
+## Wellfound
+| Company | Role | Type | Link |
+|---------|------|------|------|
+| vaiu.ai | AI Engineer (Deep Learning / Research Focus) | Remote only • Everywhere | https://wellfound.com/jobs/3783481-ai-engineer-deep-learning-research-focus-full-time |
+| Alpheva AI | Founding Backend & AI Engineer (India) | Remote only • India • $25k-$40k | https://wellfound.com/jobs/3878569-founding-backend-ai-engineer-india |
+| Apps10X | Senior Computer Vision Engineer | Onsite or Remote • Bengaluru | https://wellfound.com/jobs/3824249-senior-computer-vision-engineer |
+| jeeva | Senior AI Engineer | Remote only • India | https://wellfound.com/jobs/3533743-senior-ai-engineer |
+| Netomi | Agentic AI Engineer | Remote • Gurugram | https://wellfound.com/jobs/3534530-agentic-ai-engineer |
+| FridayAI | Lead AI Engineer | Remote only • Everywhere • $29k-$40k | https://wellfound.com/jobs/3650883-lead-ai-engineer |
+
+## Naukri
+| Company | Role | Location | Exp | Link |
+|---------|------|----------|-----|------|
+| **A.P. Moller Maersk** 🔴NEW | AI ML Engineer | Hybrid - Pune, Bengaluru | 4-8 Yrs | https://www.naukri.com/job-listings-ai-ml-engineer-a-p-moller-maersk-pune-bengaluru-4-to-8-years-170226024280 |
+| **Tata Consultancy Services** 🔴NEW | AI/ML Engineer | Kochi, Hyderabad, Bengaluru | 6-11 Yrs | https://www.naukri.com/job-listings-ai-ml-artificial-intelligence-machine-learning-virtual-drive-tata-consultancy-services-kochi-hyderabad-bengaluru-6-to-11-years-300126028076 |
+| **Wipro** 🔴NEW | AI ML Engineer | Hybrid - Hyderabad, Pune, Chennai | 4-9 Yrs | https://www.naukri.com/job-listings-ai-ml-engineer-wipro-hyderabad-pune-chennai-4-to-9-years-160226010324 |
+| **Google** 🔴NEW | Senior Software Engineer, AI/ML | Bengaluru | 2-5 Yrs | https://www.naukri.com/job-listings-senior-software-engineer-ai-ml-google-india-private-limited-bengaluru-2-to-5-years-130226500471 |
+| **YASH Technologies** 🔴NEW | Sr. Data Scientist - AI/ML | Hyderabad | 5-10 Yrs | https://www.naukri.com/job-listings-yash-technologies-is-hiring-sr-data-scientist-ai-ml-yash-technologies-hyderabad-5-to-10-years-290126029010 |
+| **Makonis** 🔴NEW | Senior Data Scientist (AI/ML, GEN AI & LLM) | Bengaluru | 6-8 Yrs | https://www.naukri.com/job-listings-senior-data-scientist-ai-ml-gen-ai-llm-makonis-bengaluru-6-to-8-years-120226022114 |
+
+## Indeed
+| Company | Role | Location | Pay | Link |
+|---------|------|----------|-----|------|
+| **Texas Sports Academy** 🔴NEW | Senior AI Engineer – LLM Systems & RAG Optimization | Remote | $250,000-$300,000/yr | https://www.indeed.com/jobs?q=ai+engineer&l=remote |
+| **NEP Group Inc.** 🔴NEW | AI/Machine Learning Engineer | Remote in Dallas, TX | - | https://www.indeed.com/jobs?q=ai+engineer&l=remote |
+| **Alva** 🔴NEW | AI Agent Engineer (Backend) | Remote | - | https://www.indeed.com/jobs?q=ai+engineer&l=remote |
+| **Buildfunctions** 🔴NEW | Founding Engineer (Full-Stack AI - Agents) | Remote | - | https://www.indeed.com/jobs?q=ai+engineer&l=remote |
+| **Verita AI** 🔴NEW | Machine Learning Engineer | Remote | - | https://www.indeed.com/jobs?q=ai+engineer&l=remote |
+| **The Iron Group** 🔴NEW | Senior Technical Lead – AI Innovation | Remote | - | https://www.indeed.com/jobs?q=ai+engineer&l=remote |
+| **Predictive Sales AI** 🔴NEW | Data Science Engineer | Remote in Boca Raton, FL | - | https://www.indeed.com/jobs?q=ai+engineer&l=remote |
+| **innoVet Health** 🔴NEW | Senior AI/ML Data Scientist | Remote | - | https://www.indeed.com/jobs?q=ai+engineer&l=remote |
+| **Hewlett Packard Enterprise** 🔴NEW | AI Solution Engineer | Remote in Washington, DC | - | https://www.indeed.com/jobs?q=ai+engineer&l=remote |
+
+---
+*Scraped: February 19, 2026 7:00 AM IST*

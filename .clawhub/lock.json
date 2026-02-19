@@ -48,6 +48,10 @@
     "youtube-watcher": {
       "version": "1.0.0",
       "installedAt": 1771357213844
+    },
+    "job-search": {
+      "version": "1.0.1",
+      "installedAt": 1771449061833
     }
   }
 }
