@@ -34,6 +34,21 @@ _Runtime environment details. Changes frequently._
 - `github` — GitHub CLI
 - `docker` — Docker management
 - `skills-search` — skills.sh search
+- `gemini-cli` — Gemini CLI for coding tasks
+- `llm-supervisor` — Rate limit handling with Ollama fallback
+- `memory-keeper` — Memory checkpointing and session persistence
+- `agent-autonomy-kit` — Agent autonomy and self-direction
+- `agent-guardrails` — Anti-looping and task boundary guardrails
+- `job-search` — Job hunting and application tracking
+- `youtube` — YouTube video search and details
+- `youtube-watcher` — YouTube transcript fetching
+- `summarize` — URL/file summarization
+- `humanizer` — Remove AI writing patterns
+- `mcp-skill` — MCP server tools
+- `linkedin-profile-crawler` — LinkedIn profile data
+- `screenshot-telegram` — Capture and send screenshots to Telegram
+- `peekaboo-screenshot` — macOS UI capture
+- `openclaw-browser-use` — Browser automation
 
 ---
 

@@ -4,16 +4,6 @@ _Small, structured. Verified facts only. Review regularly._
 
 ---
 
-## Environment
-
-| Fact | Value | Source | Last Validated | Expires |
-|------|-------|--------|----------------|---------|
-| Host OS | Darwin 25.3.0 (arm64) | runtime | 2026-02-18 | Never |
-| Node | v22.17.0 | runtime | 2026-02-18 | Never |
-| Shell | zsh | runtime | 2026-02-18 | Never |
-| Projects Dir | /Users/str/Projects | TOOLS.md | 2026-02-18 | Never |
-| Timezone | Asia/Calcutta | system | 2026-02-18 | Never |
-
 ## Configured Models (Active)
 
 | Role | Model | Provider | Source | Last Validated |
