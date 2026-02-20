@@ -6,6 +6,7 @@ _Runtime environment details. Changes frequently._
 
 ## Projects Directory
 - Main path: `/Users/str/Projects`
+- Datahat path: `/Users/str/Datahat`
 
 ## Tech Stack (Current)
 
@@ -17,7 +18,6 @@ _Runtime environment details. Changes frequently._
 
 - OpenAI API: configured
 - MiniMax OAuth: configured
-- Claude/Anthropic: available
 - Google Gemini: available
 
 ## Telegram
