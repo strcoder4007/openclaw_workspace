@@ -8,9 +8,9 @@ _Small, structured. Verified facts only. Review regularly._
 
 | Role | Model | Provider | Source | Last Validated |
 |------|-------|----------|--------|----------------|
-| **Primary** | MiniMax M2.5 | minimax-portal | config | 2026-02-20 |
-| **Heartbeat** | Gemini 3 Pro Preview | google-gemini-cli | config | 2026-02-20 |
-| **Fallback** | MiniMax M2.1 | minimax-portal | config | 2026-02-20 |
+| **Primary** | MiniMax M2.5 | minimax | config | 2026-02-20 |
+| **Heartbeat** | MiniMax M2.5 | minimax-portal | config | 2026-02-20 |
+| **Fallback** | Gemini 3.1 Pro Preview | google-gemini-cli | config | 2026-02-20 |
 | **Available** | GPT-5 Mini | openai | config | 2026-02-20 |
 
 ## User Preferences
