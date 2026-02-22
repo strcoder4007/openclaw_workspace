@@ -22,7 +22,7 @@ _Runtime environment details. Changes frequently._
 
 ## Telegram
 
-- Bot: @COO_str4007_bot
+- Bot: @AI_Engineer_str4007_bot
 - Chat ID: 6695264047
 - Send screenshot: `bash ~/scripts/telegram-screenshot.sh`
 - Screenshot preference: Browser window only (Google Chrome --mode window)
