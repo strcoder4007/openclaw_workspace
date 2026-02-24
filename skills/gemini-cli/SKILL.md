@@ -3,7 +3,7 @@ name: gemini-cli
 description: Use Gemini CLI for one-shot coding or Q&A tasks. Spawns gemini in a PTY for interactive output.
 metadata:
   {
-    "openclaw": { "emoji": "♊️", "slashCommand": "gemini" },
+    "openclaw": { "emoji": "♊️", "slashCommand": "gemini" }
   }
 ---
 
@@ -18,7 +18,7 @@ Use Gemini CLI for coding tasks, Q&A, or generation.
 gemini "Your prompt here"
 
 # With specific model
-gemini -m gemini-2.5-flash "Your prompt"
+gemini -m gemini-3.1-pro-preview "Your prompt"
 
 # With approval mode
 gemini --approval-mode yolo "Build me a file"

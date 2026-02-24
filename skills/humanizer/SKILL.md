@@ -6,7 +6,7 @@ description: |
   text to make it sound more natural and human-written. Based on Wikipedia's
   comprehensive "Signs of AI writing" guide. Detects and fixes patterns including:
   inflated symbolism, promotional language, superficial -ing analyses, vague
-  attributions, em dash overuse, rule of three, AI vocabulary words, negative
+  attributions, em dash usage (never use em dashes), rule of three, AI vocabulary words, negative
   parallelisms, and excessive conjunctive phrases.
 allowed-tools:
   - Read
@@ -233,9 +233,9 @@ Avoiding AI patterns is only half the job. Sterile, voiceless writing is just as
 
 ## STYLE PATTERNS
 
-### 13. Em Dash Overuse
+### 13. Em Dashes (Banned)
 
-**Problem:** LLMs use em dashes (—) more than humans, mimicking "punchy" sales writing.
+**Rule:** Never use em dashes (—) in any writing. Replace with commas, periods, or rewrite the sentence.
 
 **Before:**
 > The term is primarily promoted by Dutch institutions—not by the people themselves. You don't say "Netherlands, Europe" as an address—yet this mislabeling continues—even in official documents.
