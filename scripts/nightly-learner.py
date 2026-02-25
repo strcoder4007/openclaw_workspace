@@ -17,11 +17,13 @@ TOPICS = [
     "Make MCP Servers, NPM Packages & CLI Tools",
     "Agentic Graph RAG",
     "KV Cache",
+    "Speech to speech model"
     "RLHF, GRPO, PPO",
     "ASR and VAD",
-    "All about Finetuning",
-    "Understand CUDA",
-    "Understanding transformers deeply",
+    "Finetuning in 2026",
+    "Transformer Architecture",
+    "Self attention, cross attention, sparse attention",
+    "Sabastian Raschka LLM Architecture"
     "Research Papers (from daily papers on hugging face look for the best 3 in the week)"
 ]
 

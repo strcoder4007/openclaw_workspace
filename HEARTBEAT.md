@@ -1,5 +1,13 @@
 # HEARTBEAT.md
 
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
+## Periodic Checks (rotate through)
 
-# Add tasks below when you want the agent to check something periodically.
+### Teams Activity (every heartbeat)
+- Check Teams (https://teams.cloud.microsoft/) on browser
+- Navigate to Activity section
+- Look for unread messages and @mentions
+- If urgent: alert the user
+
+### Gmail Inbox (every heartbeat)
+- Check for unread emails using gog CLI
+- Flag urgent emails
