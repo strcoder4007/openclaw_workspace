@@ -34,7 +34,8 @@ _Runtime environment details. Changes frequently._
 - `github` — GitHub CLI
 - `docker` — Docker management
 - `skills-search` — skills.sh search
-- `gemini-cli` — **All coding tasks delegate here** with `--model google/gemini-3.1-pro-preview`
+- `gemini-cli` — Fallback for coding tasks
+- `claude-code` — **Primary for coding tasks** (configured with MiniMax M2.5)
 - `llm-supervisor` — Rate limit handling with Ollama fallback
 - `memory-keeper` — Memory checkpointing and session persistence
 - `agent-autonomy-kit` — Agent autonomy and self-direction
