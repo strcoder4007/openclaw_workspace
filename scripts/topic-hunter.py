@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Nightly topic learner - picks a random topic and finds learning resources
+Topic Hunter - picks a random topic and finds learning resources
 Runs at 11 PM daily via cron
 """
 
@@ -10,6 +10,10 @@ import subprocess
 import json
 from datetime import datetime
 
+# Output settings
+REPORTS_DIR = "/Users/str/.openclaw/workspace/outputs/reports"
+REPORT_FILE = os.path.join(REPORTS_DIR, "topic-hunter.md")
+
 # The topic list
 TOPICS = [
     "Ambient Agents that keep running",
@@ -17,6 +21,7 @@ TOPICS = [
     "Make MCP Servers, NPM Packages & CLI Tools",
     "Agentic Graph RAG",
     "KV Cache",
+    "VAE",
     "Speech to speech model"
     "RLHF, GRPO, PPO",
     "ASR and VAD",
@@ -68,7 +73,7 @@ def search_resources(topic):
 
 def format_message(topic, results):
     """Format the results as a message"""
-    msg = f"📚 *Tonight's Learning Topic*\n\n*{topic}*\n\n"
+    msg = f"🎯 *Topic Hunter*\n\n*{topic}*\n\n"
     
     if isinstance(results, str):
         return msg + results
@@ -125,10 +130,14 @@ def main():
     message = format_message(topic, results)
     print(message)
     
-    # Also log to file
-    log_path = os.path.expanduser("~/scripts/nightly-learner.log")
-    with open(log_path, "a") as f:
-        f.write(f"\n--- {datetime.now()} ---\n{topic}\n{results}\n")
+    # Also save to reports file (appending)
+    os.makedirs(REPORTS_DIR, exist_ok=True)
+    with open(REPORT_FILE, "a") as f:
+        f.write(f"\n---\n*Topic: {topic}*\n*Date: {datetime.now().strftime('%Y-%m-%d %H:%M')}*\n\n")
+        f.write(f"📝 *Blogs*\n{results.get('blogs', 'N/A')}\n\n")
+        f.write(f"🐙 *GitHub*\n{results.get('github', 'N/A')}\n\n")
+        f.write(f"🎬 *YouTube*\n{results.get('youtube', 'N/A')}\n\n")
+        f.write(f"📄 *Papers*\n{results.get('papers', 'N/A')}\n")
     
     # Send via Telegram
     if send_telegram(message):

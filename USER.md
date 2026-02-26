@@ -55,6 +55,7 @@ Programming
 - Make MCP Servers, NPM Packages & CLI Tools
 - Agentic Graph RAG
 - KV Cache
+- VAE
 - RLHF, GRPO, PPO, ASR and VAD
 - All about Finetuning
 - Understand CUDA

@@ -15,7 +15,7 @@ Before doing anything else:
 3. Read `USER.md` — this is who you're helping
 4. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
 5. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
-6. Check `.learnings/` for any pending errors, corrections, or feature requests
+6. Check `memory/learnings.md` for any recent corrections or learnings
 
 Don't ask permission. Just do it.
 
@@ -157,17 +157,14 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
 - **Mentions** - Twitter/social notifications?
 - **Weather** - Relevant if your human might go out?
 
-**Track your checks** in `memory/heartbeat-state.json`:
-
-```json
-{
-  "lastChecks": {
-    "email": 1703275200,
-    "calendar": 1703260800,
-    "weather": null
-  }
-}
+**Track your checks** in `heartbeat-state.py`:
+```bash
+python3 /Users/str/.openclaw/workspace/scripts/heartbeat-state.py list  # See all
+python3 /Users/str/.openclaw/workspace/scripts/heartbeat-state.py        # Get next
+python3 /Users/str/.openclaw/workspace/scripts/heartbeat-state.py run <check>  # Mark done
 ```
+
+Checks rotate: email → teams → calendar → weather → repeat
 
 **When to reach out:**
 
@@ -178,7 +175,7 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
 
 **When to stay quiet (HEARTBEAT_OK):**
 
-- Late night (23:00-08:00) unless urgent
+- Late night (00:00-06:00) unless urgent
 - Human is clearly busy
 - Nothing new since last check
 - You just checked &lt;30 minutes ago
@@ -206,34 +203,29 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 
 ## Self-Improvement
 
-Log learnings, errors, and corrections for continuous improvement.
+Simple: when I mess up or learn something, append to `memory/learnings.md`.
 
 ### When to Log
 
-| Situation | Log To |
-|-----------|--------|
-| Command/operation fails | `.learnings/ERRORS.md` |
-| User corrects you ("No, that's wrong...") | `.learnings/LEARNINGS.md` |
-| User requests missing capability | `.learnings/FEATURE_REQUESTS.md` |
-| API/external tool fails | `.learnings/ERRORS.md` |
-| Knowledge outdated | `.learnings/LEARNINGS.md` (category: knowledge_gap) |
-| Better approach found | `.learnings/LEARNINGS.md` (category: best_practice) |
+- You correct me → log it
+- Command fails → log it  
+- I find a better way → log it
+- Something breaks → log it
 
-### Promotion Targets
+### How
 
-When learnings prove broadly applicable, promote to:
+Just append to `memory/learnings.md` with date and what I learned. No complex IDs or formats.
 
-| Learning Type | Promote To | Example |
-|---------------|------------|---------|
-| Behavioral patterns | `SOUL.md` | "Be concise, avoid disclaimers" |
-| Workflow improvements | `AGENTS.md` | "Spawn sub-agents for long tasks" |
-| Tool gotchas | `TOOLS.md` | "Git push needs auth first" |
+### Review
 
-### Review Triggers
+Periodically clean up old stuff.
 
-- Before starting a new major task
-- After completing a feature
-- When working in an area with past learnings
+### Promotion
+
+If something applies broadly:
+- Behavioral → SOUL.md
+- Workflow → AGENTS.md
+- Tool → TOOLS.md
 
 ## Make It Yours
 

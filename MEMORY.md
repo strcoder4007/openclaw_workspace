@@ -34,90 +34,17 @@ _Small, structured. Verified facts only. Review regularly._
 | Groq | Key Present | config | 2026-02-20 |
 | ElevenLabs | Key Present | config | 2026-02-20 |
 
+Whenever I ask about BMW Z4 OLX Analysis or BMW price/best deals, analyze 2015-2018 BMW Z4 e89 listings on OLX India https://www.olx.in/en-in/items/q-bmw-z4?isSearchCall=true
+
 ## Constraints
 
 - Session idle timeout: 30 minutes
 - Always verify before executing external actions
 - **NEVER use em dashes (—) in any writing** — replace with commas, periods, or rewrite the sentence
 
-## Self-Improvement Skill
+## Self-Improvement
 
-### Log Formats
-
-**Learning Entry** (LEARNINGS.md):
-```markdown
-## [LRN-YYYYMMDD-XXX] category
-
-**Logged**: ISO-8601 timestamp
-**Priority**: low | medium | high | critical
-**Status**: pending | resolved | promoted
-
-### Summary
-One-line description
-
-### Details
-Full context: what happened, what was wrong, what's correct
-
-### Metadata
-- Source: conversation | error | user_feedback
-- See Also: LRN-20250110-001
-```
-
-**Error Entry** (ERRORS.md):
-```markdown
-## [ERR-YYYYMMDD-XXX] command_name
-
-**Logged**: ISO-8601 timestamp
-**Priority**: high
-**Status**: pending
-
-### Summary
-Brief description
-
-### Error
-```
-Actual error message
-```
-
-### Context
-What was attempted
-
-### Suggested Fix
-How to resolve
-```
-
-### Detection Triggers
-
-**Corrections** → learning (correction):
-- "No, that's not right..."
-- "Actually, it should be..."
-- "You're wrong about..."
-
-**Feature Requests** → feature request:
-- "Can you also..."
-- "I wish you could..."
-
-**Knowledge Gaps** → learning (knowledge_gap):
-- User provides new information
-- Documentation is outdated
-
-**Errors** → error entry:
-- Non-zero exit code
-- Exception or stack trace
-- Unexpected output
-
-### Promotion Criteria
-
-Promote when:
-- Applies across multiple files/features
-- Prevents recurring mistakes
-- Documents project conventions
-
-### ID Format
-
-- `LRN-YYYYMMDD-XXX` - Learning
-- `ERR-YYYYMMDD-XXX` - Error
-- `FEAT-YYYYMMDD-XXX` - Feature Request
+See AGENTS.md. Simple format in `memory/learnings.md` — just date + what I learned.
 
 ---
 
