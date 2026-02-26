@@ -52,6 +52,10 @@
     "job-search": {
       "version": "1.0.1",
       "installedAt": 1771449061833
+    },
+    "self-improving-agent": {
+      "version": "1.0.11",
+      "installedAt": 1772055836352
     }
   }
 }

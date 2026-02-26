@@ -15,6 +15,7 @@ Before doing anything else:
 3. Read `USER.md` — this is who you're helping
 4. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
 5. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
+6. Check `.learnings/` for any pending errors, corrections, or feature requests
 
 Don't ask permission. Just do it.
 
@@ -202,6 +203,37 @@ Periodically (every few days), use a heartbeat to:
 Think of it like a human reviewing their journal and updating their mental model. Daily files are raw notes; MEMORY.md is curated wisdom.
 
 The goal: Be helpful without being annoying. Check in a few times a day, do useful background work, but respect quiet time.
+
+## Self-Improvement
+
+Log learnings, errors, and corrections for continuous improvement.
+
+### When to Log
+
+| Situation | Log To |
+|-----------|--------|
+| Command/operation fails | `.learnings/ERRORS.md` |
+| User corrects you ("No, that's wrong...") | `.learnings/LEARNINGS.md` |
+| User requests missing capability | `.learnings/FEATURE_REQUESTS.md` |
+| API/external tool fails | `.learnings/ERRORS.md` |
+| Knowledge outdated | `.learnings/LEARNINGS.md` (category: knowledge_gap) |
+| Better approach found | `.learnings/LEARNINGS.md` (category: best_practice) |
+
+### Promotion Targets
+
+When learnings prove broadly applicable, promote to:
+
+| Learning Type | Promote To | Example |
+|---------------|------------|---------|
+| Behavioral patterns | `SOUL.md` | "Be concise, avoid disclaimers" |
+| Workflow improvements | `AGENTS.md` | "Spawn sub-agents for long tasks" |
+| Tool gotchas | `TOOLS.md` | "Git push needs auth first" |
+
+### Review Triggers
+
+- Before starting a new major task
+- After completing a feature
+- When working in an area with past learnings
 
 ## Make It Yours
 

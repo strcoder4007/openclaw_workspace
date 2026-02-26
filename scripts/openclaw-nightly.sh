@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
-"""
-OpenClaw nightly update script - commits workspace, checks for updates, updates if needed
-Runs at 11:55 PM daily via cron
-"""
+# OpenClaw nightly update script - commits workspace, checks for updates, updates if needed
+# Runs at 11:55 PM daily via cron
 
 set -e
 

@@ -1,0 +1,17 @@
+/bin/sh: /Users/str/.openclaw/workspace/scripts/openclaw-nightly.sh: Permission denied
+/Users/str/.openclaw/workspace/scripts/openclaw-nightly.sh: line 5: 
+OpenClaw nightly update script - commits workspace, checks for updates, updates if needed
+Runs at 11:55 PM daily via cron
+: command not found
+[2026-02-26 23:55:00] === Starting nightly update ===
+[2026-02-26 23:55:00] === Starting nightly update ===
+[2026-02-26 23:55:00] Checking for workspace changes...
+[2026-02-26 23:55:00] Checking for workspace changes...
+.git/hooks/pre-commit: line 8: /Users/str/.openclaw/workspace/credential-scanner.sh: No such file or directory
+.git/hooks/pre-commit: line 8: exec: /Users/str/.openclaw/workspace/credential-scanner.sh: cannot execute: No such file or directory
+[2026-02-26 23:55:08] === Starting nightly update ===
+[2026-02-26 23:55:08] Checking for workspace changes...
+[2026-02-26 23:55:23] === Starting nightly update ===
+[2026-02-26 23:55:23] Checking for workspace changes...
+[2026-02-26 23:55:34] === Starting nightly update ===
+[2026-02-26 23:55:34] Checking for workspace changes...
