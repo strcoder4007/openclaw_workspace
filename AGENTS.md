@@ -150,21 +150,12 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
 
 **Tip:** Batch similar periodic checks into `HEARTBEAT.md` instead of creating multiple cron jobs. Use cron for precise schedules and standalone tasks.
 
-**Things to check (rotate through these, 2-4 times per day):**
+**Things to check (every heartbeat):**
 
 - **Emails** - Any urgent unread messages?
-- **Calendar** - Upcoming events in next 24-48h?
-- **Mentions** - Twitter/social notifications?
-- **Weather** - Relevant if your human might go out?
-
-**Track your checks** in `heartbeat-state.py`:
-```bash
-python3 /Users/str/.openclaw/workspace/scripts/heartbeat-state.py list  # See all
-python3 /Users/str/.openclaw/workspace/scripts/heartbeat-state.py        # Get next
-python3 /Users/str/.openclaw/workspace/scripts/heartbeat-state.py run <check>  # Mark done
-```
-
-Checks rotate: email → teams → calendar → weather → repeat
+- **Calendar** - Upcoming events in next 24h?
+- **Teams** - Any @mentions?
+- **Weather** - Relevant if human might go out?
 
 **When to reach out:**
 

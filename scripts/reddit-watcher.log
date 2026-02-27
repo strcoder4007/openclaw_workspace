@@ -1,0 +1,15 @@
+[2026-02-27 21:00:00.382888] Fetching posts from 8 subreddits...
+  r/openclaw: 15 posts
+  r/ChatGPT: 15 posts
+  r/LocalLLaMA: 15 posts
+  r/LLMs: 15 posts
+Error fetching r/ArtificialIntelligence: HTTP Error 404: Not Found
+  r/MachineLearning: 15 posts
+  r/langchain: 15 posts
+  r/langgraph: 15 posts
+
+✅ Saved:
+  /Users/str/.openclaw/workspace/outputs/reports/reddit-watch-2026-02-27.md
+  /Users/str/.openclaw/workspace/outputs/reports/reddit-watch-2026-02-27.json
+
+Total posts: 105

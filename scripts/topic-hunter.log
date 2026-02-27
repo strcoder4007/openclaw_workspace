@@ -1,0 +1,14 @@
+[2026-02-27 23:00:00.428621] Selected topic: Agentic Graph RAG
+🎯 *Topic Hunter*
+
+*Agentic Graph RAG*
+
+⚠️ No SERPER_API_KEY set
+Traceback (most recent call last):
+  File "/Users/str/.openclaw/workspace/scripts/topic-hunter.py", line 149, in <module>
+    main()
+    ~~~~^^
+  File "/Users/str/.openclaw/workspace/scripts/topic-hunter.py", line 137, in main
+    f.write(f"📝 *Blogs*\n{results.get('blogs', 'N/A')}\n\n")
+                           ^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
