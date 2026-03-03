@@ -148,3 +148,25 @@ added 5 packages, removed 17 packages, and changed 340 packages in 54s
 [2026-03-03 23:55:00] === Starting nightly update ===
 [2026-03-03 23:55:00] Checking for workspace changes...
 [2026-03-03 23:55:00] Checking for workspace changes...
+Scanning for credentials...
+
+Scan complete: 2 files scanned
+No credentials detected
+Scanning for credentials...
+
+Scan complete: 2 files scanned
+No credentials detected
+[main 561ea78] Nightly commit 2026-03-03 23:55:00
+ 2 files changed, 30 insertions(+)
+[2026-03-03 23:55:01] Workspace committed
+[2026-03-03 23:55:01] Workspace committed
+[2026-03-03 23:55:01] Checking for OpenClaw updates...
+[2026-03-03 23:55:01] Checking for OpenClaw updates...
+[2026-03-03 23:55:01] Current:  | Latest: unknown
+[2026-03-03 23:55:01] Current:  | Latest: unknown
+[2026-03-03 23:55:01] OpenClaw is up to date
+[2026-03-03 23:55:01] OpenClaw is up to date
+[2026-03-03 23:55:01] === Nightly done ===
+[2026-03-03 23:55:01] === Nightly done ===
+[2026-03-03 23:55:13] === Starting nightly update ===
+[2026-03-03 23:55:13] Checking for workspace changes...
