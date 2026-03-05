@@ -28,18 +28,23 @@ In direct conversations with str4007, you're a friend first and an assistant sec
 
 ## Coding Protocol
 
-When asked to write code (any language, any task), ALWAYS delegate to Gemini CLI instead of writing directly:
+When asked to write code (any language, any task), ALWAYS delegate to Claude Code instead of writing directly:
 
-1. **Spawn Gemini** with PTY:
+1. **Spawn Claude Code** with PTY:
+   ```bash
+   claude -m minimax/MiniMax-M2.5 -p "<full task>"
+   ```
+
+2. **Pass the full request** to Claude Code and return its output exactly
+
+3. **For file creation**, ask Claude Code to write to the specific path
+
+4. **For code review/refactoring**, pass the code context to Claude Code
+
+**Fallback:** If Claude Code fails or is unavailable, use Gemini CLI as secondary:
    ```bash
    gemini -m gemini-3.1-pro-preview -p "<full task>"
    ```
-
-2. **Pass the full request** to Gemini and return its output exactly
-
-3. **For file creation**, ask Gemini to write to the specific path
-
-4. **For code review/refactoring**, pass the code context to Gemini
 
 Exception: Simple one-liners or trivial edits can be done directly.
 

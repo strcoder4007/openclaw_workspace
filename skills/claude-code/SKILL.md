@@ -1,10 +1,6 @@
 ---
 name: claude-code
 description: Use Claude Code (with MiniMax M2.5) for coding tasks. Spawns claude in a PTY for interactive output.
-metadata:
-  {
-    "openclaw": { "emoji": "🧠", "slashCommand": "claude" }
-  }
 ---
 
 # Claude Code Skill

@@ -42,4 +42,4 @@ Every heartbeat, check all of these:
 
 ## Quiet Hours
 
-00:00-06:00 — stay quiet unless urgent
+00:00-06:00, stay quiet unless urgent

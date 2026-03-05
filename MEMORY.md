@@ -5,6 +5,7 @@ _Small, structured. Verified facts only. Review regularly._
 ---
 
 ## Configured Models (Active)
+_Last Reviewed: 2026-03-06_
 
 | Role | Model | Provider | Source | Last Validated |
 |------|-------|----------|--------|----------------|
@@ -14,6 +15,7 @@ _Small, structured. Verified facts only. Review regularly._
 | **Available** | GPT-5 Mini | openai | config | 2026-02-20 |
 
 ## User Preferences
+_Last Reviewed: 2026-03-06_
 
 | Preference | Value | Source | Last Validated | Expires |
 |------------|-------|--------|----------------|---------|
@@ -23,6 +25,7 @@ _Small, structured. Verified facts only. Review regularly._
 | Currency | Indian Rupees (₹) | str4007 | 2026-02-20 | Never |
 
 ## Infrastructure Keys
+_Last Reviewed: 2026-03-06_
 
 | Service | Status | Source | Last Validated |
 |---------|--------|--------|----------------|
@@ -34,18 +37,26 @@ _Small, structured. Verified facts only. Review regularly._
 | Groq | Key Present | config | 2026-02-20 |
 | ElevenLabs | Key Present | config | 2026-02-20 |
 
-Whenever I ask about BMW Z4 OLX Analysis or BMW price/best deals, analyze 2015-2018 BMW Z4 e89 listings on OLX India https://www.olx.in/en-in/items/q-bmw-z4?isSearchCall=true
-
-## Constraints
+## Persistent Instructions
+_Last Reviewed: 2026-03-06_
 
 - Session idle timeout: 30 minutes
 - Always verify before executing external actions
 - **NEVER use em dashes (—) in any writing** — replace with commas, periods, or rewrite the sentence
+- When asked about BMW Z4 OLX Analysis or BMW price/best deals, analyze 2015-2018 BMW Z4 e89 listings on OLX India https://www.olx.in/en-in/items/q-bmw-z4?isSearchCall=true
+
+## 🔍 To Verify
+_Things that need confirmation_
+
+- [ ] All model configs above need re-validation (Last Validated Feb 20, now Mar 6)
+- [ ] Verify DeepSeek, OpenRouter, Groq keys are still working
+- [ ] Check if GPT-5 Mini is still available
 
 ## Self-Improvement
+_Last Reviewed: 2026-03-06_
 
 See AGENTS.md. Simple format in `memory/learnings.md` — just date + what I learned.
 
 ---
 
-_Review this file periodically. Remove expired entries. Keep it small._
+_Review this file quarterly. Update review dates when making changes. Move verified facts here from daily memory._

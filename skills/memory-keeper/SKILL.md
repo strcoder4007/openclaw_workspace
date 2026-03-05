@@ -2,10 +2,6 @@
 name: memory-keeper
 description: Memory checkpointing, active task management, and session persistence
 version: 1.0.0
-metadata:
-  openclaw:
-    emoji: "💾"
-    category: memory
 ---
 
 # Memory Keeper 💾

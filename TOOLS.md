@@ -30,26 +30,35 @@ _Runtime environment details. Changes frequently._
 
 ## Installed Skills
 
-- `python` — Python development
-- `github` — GitHub CLI
-- `docker` — Docker management
-- `skills-search` — skills.sh search
-- `gemini-cli` — Fallback for coding tasks
-- `claude-code` — **Primary for coding tasks** (configured with MiniMax M2.5)
-- `llm-supervisor` — Rate limit handling with Ollama fallback
-- `memory-keeper` — Memory checkpointing and session persistence
-- `agent-autonomy-kit` — Agent autonomy and self-direction
-- `agent-guardrails` — Anti-looping and task boundary guardrails
-- `job-search` — Job hunting and application tracking
-- `youtube` — YouTube video search and details
-- `youtube-watcher` — YouTube transcript fetching
-- `summarize` — URL/file summarization
-- `humanizer` — Remove AI writing patterns
-- `mcp-skill` — MCP server tools
-- `linkedin-profile-crawler` — LinkedIn profile data
-- `screenshot-telegram` — Capture and send screenshots to Telegram
-- `peekaboo-screenshot` — macOS UI capture
-- `openclaw-browser-use` — Browser automation
+- `python`, Python development
+- `github`, GitHub CLI
+- `docker`, Docker management
+- `skills-search`, skills.sh search
+- `claude-code`, **Primary for coding tasks** (configured with MiniMax M2.5)
+- `gemini-cli`, Fallback for coding tasks
+- `llm-supervisor`, Rate limit handling with Ollama fallback
+- `memory-keeper`, Memory checkpointing and session persistence
+- `agent-autonomy-kit`, Agent autonomy and self-direction
+- `agent-guardrails`, Anti-looping and task boundary guardrails
+- `job-search`, Job hunting and application tracking
+- `youtube`, YouTube video search and details
+- `youtube-watcher`, YouTube transcript fetching
+- `summarize`, URL/file summarization
+- `humanizer`, Remove AI writing patterns
+- `mcp-skill`, MCP server tools
+- `linkedin-profile-crawler`, LinkedIn profile data
+- `screenshot-telegram`, Capture and send screenshots to Telegram
+- `peekaboo-screenshot`, macOS UI capture
+- `openclaw-browser-use`, Browser automation
+- `code-review-assistant`, Code reviews (bugs, security, performance)
+- `code-summarizer`, Summarize unfamiliar code
+- `code-search-assistant`, Find patterns in codebases
+- `readme-generator`, Generate README.md files
+- `api-documentation-generator`, Generate API docs
+- `code-change-summarizer`, Auto-generate PR descriptions
+- `unit-test-generator`, Generate unit tests
+- `static-vulnerability-detector`, Security vulnerability scanning
+- `dead-code-eliminator`, Remove unused code
 
 ---
 

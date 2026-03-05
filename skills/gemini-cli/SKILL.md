@@ -1,10 +1,6 @@
 ---
 name: gemini-cli
 description: Use Gemini CLI for one-shot coding or Q&A tasks. Spawns gemini in a PTY for interactive output.
-metadata:
-  {
-    "openclaw": { "emoji": "♊️", "slashCommand": "gemini" }
-  }
 ---
 
 # Gemini CLI Skill
