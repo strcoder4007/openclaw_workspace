@@ -210,3 +210,25 @@ No credentials detected
 [2026-03-05 23:55:01] === Starting nightly update ===
 [2026-03-05 23:55:01] Checking for workspace changes...
 [2026-03-05 23:55:01] Checking for workspace changes...
+Scanning for credentials...
+
+Scan complete: 3 files scanned
+No credentials detected
+Scanning for credentials...
+
+Scan complete: 3 files scanned
+No credentials detected
+[main d919489] Nightly commit 2026-03-05 23:55:01
+ 3 files changed, 23 insertions(+)
+[2026-03-05 23:55:01] Workspace committed
+[2026-03-05 23:55:01] Workspace committed
+[2026-03-05 23:55:01] Checking for OpenClaw updates...
+[2026-03-05 23:55:01] Checking for OpenClaw updates...
+[2026-03-05 23:55:01] Current:  | Latest: unknown
+[2026-03-05 23:55:01] Current:  | Latest: unknown
+[2026-03-05 23:55:01] OpenClaw is up to date
+[2026-03-05 23:55:01] OpenClaw is up to date
+[2026-03-05 23:55:01] === Nightly done ===
+[2026-03-05 23:55:01] === Nightly done ===
+[2026-03-05 23:55:06] === Starting nightly update ===
+[2026-03-05 23:55:06] Checking for workspace changes...
