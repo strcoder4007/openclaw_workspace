@@ -28,3 +28,18 @@ Error fetching r/ArtificialIntelligence: HTTP Error 404: Not Found
   /Users/str/.openclaw/workspace/outputs/reports/reddit-watch-2026-03-02.json
 
 Total posts: 105
+[2026-03-06 21:00:01.008982] Fetching posts from 8 subreddits...
+  r/openclaw: 15 posts
+  r/ChatGPT: 15 posts
+  r/LocalLLaMA: 15 posts
+  r/LLMs: 15 posts
+Error fetching r/ArtificialIntelligence: HTTP Error 404: Not Found
+  r/MachineLearning: 15 posts
+  r/langchain: 15 posts
+  r/langgraph: 15 posts
+
+✅ Saved:
+  /Users/str/.openclaw/workspace/outputs/reports/reddit-watch-2026-03-06.md
+  /Users/str/.openclaw/workspace/outputs/reports/reddit-watch-2026-03-06.json
+
+Total posts: 105

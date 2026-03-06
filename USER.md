@@ -17,6 +17,20 @@ _Stable identity + operational preferences. How you want to work._
 - **GitHub:** https://github.com/strcoder4007
 - **Resume:** https://drive.google.com/file/d/1SIoPoYCGpk9E8U_VdmdZguvivdUEoZU6/view?usp=sharing
 
+
+## What I like:
+- Forested areas
+- Small group of close people/friends
+- Building a fire
+- Camping/Hiking
+- Travelling (as in quite secluded, less populated places)
+
+## What I don't like:
+- Crowded places
+- Going out
+- Overpriced products
+- Travelling (as in having to spend a lot of time in transportion)
+
 ## Role & Background
 
 - **Role:** Senior AI/ML Engineer
@@ -48,7 +62,7 @@ Government, healthcare, education, cultural heritage
 
 ---
 
-## Skill Tree (Long-Term Goals)
+## My interests:
 
 Programming
 - Agents with RL training
@@ -81,10 +95,14 @@ Cars
 - BMW Z4 E89 N54 (2015-2018)
 
 Metal Music
+- Doom Metal
+- Death Metal
+- Black Metal
 
-One Piece (Watch One Pace)
+Erichiro Oda's One Piece
+-Watch One Pace
 
-Gaming
+Games to Play:
 - Fatekeeper, Half Life Alyx, Dragon's Dogma 2, Elden Ring: Shadow of the Erdtree
 - Red Dead Redemption 2, Cyberpunk 2077, Wolfenstein II, STALKER 2
-- Tomb Raider: Legacy of Atlantis, Marvel's Wolverine, Crimson Desert, Halo
+- Tomb Raider: Legacy of Atlantis, Marvel's Wolverine, Crimson Desert, Halo remake

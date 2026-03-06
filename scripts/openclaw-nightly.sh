@@ -22,6 +22,10 @@ if [[ -n $(git status --porcelain 2>/dev/null) ]]; then
     git add -A
     git commit -m "Nightly commit $(date '+%Y-%m-%d %H:%M:%S')"
     log "Workspace committed"
+    
+    log "Pushing workspace..."
+    git push
+    log "Workspace pushed"
 else
     log "No changes to commit"
 fi
