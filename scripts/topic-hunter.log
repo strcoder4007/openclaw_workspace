@@ -138,3 +138,17 @@ Traceback (most recent call last):
     f.write(f"📝 *Blogs*\n{results.get('blogs', 'N/A')}\n\n")
                            ^^^^^^^^^^^
 AttributeError: 'str' object has no attribute 'get'
+[2026-03-09 23:00:00.888821] Selected topic: AI agent architecture 2026
+🎯 *Topic Hunter*
+
+*AI agent architecture 2026*
+
+⚠️ No SERPER_API_KEY set
+Traceback (most recent call last):
+  File "/Users/str/.openclaw/workspace/scripts/topic-hunter.py", line 154, in <module>
+    main()
+    ~~~~^^
+  File "/Users/str/.openclaw/workspace/scripts/topic-hunter.py", line 142, in main
+    f.write(f"📝 *Blogs*\n{results.get('blogs', 'N/A')}\n\n")
+                           ^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'

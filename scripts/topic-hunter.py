@@ -22,14 +22,19 @@ TOPICS = [
     "Agentic Graph RAG",
     "KV Cache",
     "VAE",
-    "Speech to speech model"
+    "Speech to speech model",
     "RLHF, GRPO, PPO",
     "ASR and VAD",
     "Finetuning in 2026",
     "Transformer Architecture",
     "Self attention, cross attention, sparse attention",
-    "Sabastian Raschka LLM Architecture"
-    "Research Papers (from daily papers on hugging face look for the best 3 in the week)"
+    "Sabastian Raschka LLM Architecture",
+    "Research Papers (from daily papers on hugging face look for the best 3 in the week)",
+    "NVIDIA GPU architecture YouTube videos",
+    "AI agent architecture 2026",
+    "x86 processor architecture YouTube videos",
+    "ARM processor architecture YouTube videos",
+    "PC computer architecture YouTube videos"
 ]
 
 def search_resources(topic):
