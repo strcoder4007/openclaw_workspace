@@ -62,6 +62,47 @@ Government, healthcare, education, cultural heritage
 
 ---
 
+## Current Career Status (March 2026)
+
+- **Offers:** 2 offers, 48LPA remote (55LPA India equivalent)
+- **Current salary:** ~24LPA (doubling in April-May 2026 to ~65-70LPA with both jobs)
+- **Target:** 65-75LPA, always remote, aim for Senior to Staff Engineer level
+- **Timeline:** 2026-2027 should be "safe for a while"
+- **Focus areas for growth:**
+  - Deep backend knowledge (not just web)
+  - Agentic Graph RAG
+  - Soft skills for interviews
+  - Deep knowledge for Staff Engineer level
+
+---
+
+## Health & Personal Todos
+
+- Juno X-ray (pending)
+- Body Checkup (pending)
+- Health Insurance (pending)
+
+---
+
+## Personal Struggles & Context
+
+- **Weed:** Has been addicted, describes it as "destructive." Has tried quitting multiple times. Currently trying to reduce.
+- **Anxiety:** Describes self as "too sensitive" with history of anxiety issues. Practices meditation.
+- **Therapy approach:** Carl Jung's psychology, individuation, shadow work
+- **Past trauma:** Detailed history of childhood trauma documented in blogs (hostel abuse, family issues)
+
+---
+
+## Key Learnings (from past mistakes)
+
+- Fear of interviews is a blocker
+- Fear of programming again needs to be addressed
+- Consistency > motivation
+- Anxiety has "cost me so much" in career progress
+- "The problem is there. Its in my head. I'm not losing anything, I need to talk to other people. Do something about anxiety."
+
+---
+
 ## My interests:
 
 Programming
