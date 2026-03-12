@@ -180,3 +180,11 @@ Traceback (most recent call last):
     f.write(f"📝 *Blogs*\n{results.get('blogs', 'N/A')}\n\n")
                            ^^^^^^^^^^^
 AttributeError: 'str' object has no attribute 'get'
+[2026-03-12 23:00:00.773366] Selected topic: Ambient Agents that keep running
+🎯 *Topic Hunter*
+
+*Ambient Agents that keep running*
+
+⚠️ No results found. Try a different topic.
+Missing Telegram credentials
+⚠️ Failed to send to Telegram, logged to file
