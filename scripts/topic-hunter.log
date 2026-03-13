@@ -188,3 +188,11 @@ AttributeError: 'str' object has no attribute 'get'
 ⚠️ No results found. Try a different topic.
 Missing Telegram credentials
 ⚠️ Failed to send to Telegram, logged to file
+[2026-03-13 23:00:00.226903] Selected topic: Function calling LLM agents
+🎯 *Topic Hunter*
+
+*Function calling LLM agents*
+
+⚠️ No results found. Try a different topic.
+Missing Telegram credentials
+⚠️ Failed to send to Telegram, logged to file
